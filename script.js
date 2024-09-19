@@ -28,7 +28,7 @@ while (continuar) {
             continuar = false
             alert("Obrigado por participar da corrida!")
             break
-        default
+        default:
             continuar = false
             alert("Opção inválida! Encerrando.")
     }
